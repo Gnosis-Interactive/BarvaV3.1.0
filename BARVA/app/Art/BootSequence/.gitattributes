@@ -1,2 +1,0 @@
-BootSequence/** filter=lfs diff=lfs merge=lfs -text
-*Splash** filter=lfs diff=lfs merge=lfs -text
