@@ -2,7 +2,10 @@
 
 BARVA is a Windows pub-management simulation from Gnosis Interactive.
 
-## Download
+## Download on Itch
+https://gnosisinteractive.itch.io/barva
+
+## or
 
 Download the latest portable Windows build from:
 
